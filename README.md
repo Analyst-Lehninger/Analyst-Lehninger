@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on human health and biological science data analysis and also race car data analytics.
 - 📫 How to reach me on here. send a message. :)
 - 😄 Pronouns: he, him, they/them
-- ⚡ Fun fact: I SHRED down mountain bike trails.
+- ⚡ Fun fact: I SHRED mountain bike trails.
 
 <!---
 Analyst-Lehninger/Analyst-Lehninger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
